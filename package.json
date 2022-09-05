@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.18.1",
     "mangodb": "^1.0.0",
-    "mongoose": "^6.5.4",
-    "new name": "cj"
+    "mongoose": "^6.5.4"
+    
   }
 }
