@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/chandan1607/restapi#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mangodb": "^1.0.0",
+    "mongoose": "^6.5.4"
   }
 }
