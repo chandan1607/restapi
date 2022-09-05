@@ -1,0 +1,19 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan1607/restapi.git"
+  },
+  "author": "chandan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandan1607/restapi/issues"
+  },
+  "homepage": "https://github.com/chandan1607/restapi#readme"
+}
